@@ -1,0 +1,12 @@
+- name: Sawyer
+  uuid: f965af3f-da91-41d7-be0f-871207c2185d
+  manufacturer: Rethink_Robotics
+- name: Baxter
+  uuid: 4e4a8836-48e6-48af-b92d-15eee64fa668
+  manufacturer: Rethink_Robotics
+- name: UR5
+  uuid: 1d3f5111-01fa-4ecf-a11e-76810d5e1dde
+  manufacturer: Universal_Robots
+- name: ABB_1200_5_90
+  uuid: 9ad3c0ee-ec5e-4057-a297-d340e1484f01
+  manufacturer: ABB

@@ -1,0 +1,15 @@
+- name: Rethink_Robotics
+  uuid: 82d22757-bbfc-44ca-9edb-8824c4a1943e
+  description: HAHN Rethink Robotics
+- name: Universal_Robots
+  uuid: d80db3c2-3de8-41e3-97f9-62765a7063b8
+  description: Universal Robots
+- name: ABB
+  uuid: ee260e78-d731-415a-84ca-4b02c487410c
+  description: ABB Robotics
+- name: Yaskawa
+  uuid: a20a5510-4322-423d-ba43-ebc0f9bdfb3e
+  description: Yaskawa Motoman Robotics
+- name: Staubli
+  uuid: b7d69004-7428-49fe-abdd-2fdbe68691fd
+  description: Staubli
