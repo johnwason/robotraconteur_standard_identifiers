@@ -16,3 +16,25 @@
       description: Collaborative robot
     - name: dual_arm_fourteen_axis
       description: Dual arm robot with 14 axes, 7 per arm
+- name: gripper
+  uuid: ee974ee5-a5de-49c4-8fe6-831df8f2821c
+  description: Robot gripper
+  subclasses:
+    - name: electric
+      description: Electrically actuated gripper
+    - name: pneumatic
+      description: Pneumatically actuated gripper
+    - name: vacuum
+      description: Vacuum gripper
+- name: robot_simulator
+  uuid: 183c1fdc-6d2c-4e23-b323-6c0283b75e4c
+  subclasses:
+    - name: kinematics
+      description: Kinematic simulator
+    - name: physics
+      description: Physics simulator
+- name: usb_camera
+  uuid: b25bf959-7ba9-46be-989e-5529026a00da
+  subclasses:
+    - name: webcam
+      description: Generic USB webcam

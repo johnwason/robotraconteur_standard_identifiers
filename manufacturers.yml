@@ -13,3 +13,9 @@
 - name: Staubli
   uuid: b7d69004-7428-49fe-abdd-2fdbe68691fd
   description: Staubli
+- name: OSRF
+  uuid: e72378a1-7f24-40f3-be19-30d5f12e2c46
+  description: Open Source Robotics Foundation
+- name: Microsoft
+  uuid: 6768680f-f282-4735-aa3c-8793f5f6a563
+  description: Microsoft Corporation

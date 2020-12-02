@@ -4,9 +4,21 @@
 - name: Baxter
   uuid: 4e4a8836-48e6-48af-b92d-15eee64fa668
   manufacturer: Rethink_Robotics
+- name: Baxter_Electric_Gripper
+  uuid: e711db9b-0a9f-459d-a1fb-44fccc46aaa4
+  manufacturer: Rethink_Robotics
 - name: UR5
   uuid: 1d3f5111-01fa-4ecf-a11e-76810d5e1dde
   manufacturer: Universal_Robots
 - name: ABB_1200_5_90
   uuid: 9ad3c0ee-ec5e-4057-a297-d340e1484f01
   manufacturer: ABB
+- name: Sawyer_Electric_Gripper
+  uuid: f9521686-6acc-4718-a637-f276463bfc3c
+  manufacturer: Rethink_Robotics
+- name: Gazebo_Sim
+  uuid: e90fee61-1c12-4747-b1c3-3b059b27466d
+  manufacturer: OSRF
+- name: Kinect_Azure
+  uuid: 5162e021-94ac-4383-8466-3e5006e94c00
+  manufacturer: Microsoft_Corporation
