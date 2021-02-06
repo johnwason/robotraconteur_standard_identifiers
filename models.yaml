@@ -10,6 +10,21 @@
 - name: UR5
   uuid: 1d3f5111-01fa-4ecf-a11e-76810d5e1dde
   manufacturer: Universal_Robots
+- name: UR5e
+  uuid: 774ab965-651e-4d8e-876c-7d3732120d5b
+  manufacturer: Universal_Robots
+- name: UR10
+  uuid: e3d9caac-a3de-4a2d-81f8-73620ddce5bf
+  manufacturer: Universal_Robots
+- name: UR10e
+  uuid: d9446c86-868e-4651-b0e3-9c93f5b4f3e7
+  manufacturer: Universal_Robots
+- name: UR3
+  uuid: 6e6e4349-536a-47e2-9dd2-fff58b58387e
+  manufacturer: Universal_Robots
+- name: UR3e
+  uuid: 1254ecfa-e52b-4e2d-8b28-8794bec4878d
+  manufacturer: Universal_Robots
 - name: ABB_1200_5_90
   uuid: 9ad3c0ee-ec5e-4057-a297-d340e1484f01
   manufacturer: ABB
